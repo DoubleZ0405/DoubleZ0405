@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on OTN
+🔭 I’m currently working on the aspirations that reside in my heart.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleZ0405&show_icons=true&theme=radical)
 
