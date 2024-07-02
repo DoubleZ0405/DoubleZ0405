@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 🔭  I’m currently working on the aspirations that reside in my heart.
 
-## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleZ0405&show_icons=true&theme=radical)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoubleZ0405&show_icons=true&theme=radical)
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleZ0405&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
